@@ -1,4 +1,4 @@
-# crisis response
+# Crisis Response
 
 
 Crisis Response is an innovative platform designed to streamline the reporting, management, and response to crises, empowering communities to act swiftly and effectively during emergencies. By providing users with an intuitive interface to report various types of crises—including natural disasters, health emergencies, and conflicts—Crisis Key enables timely communication and collaboration among community members, responders, and organizations. 
